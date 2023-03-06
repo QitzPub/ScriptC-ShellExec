@@ -71,3 +71,8 @@ Console.WriteLine("実行結果="+output);
 
 commandは"echo test!!!"が初期で設定されているので、任意のコマンド（git やcurlなど）に書き換えて対応をおこなえばOKです。
 
+# 他
+
+インテリセンス・入力補完を聞かせたい時
+https://qiita.com/Midoliy/items/a033b763399c242dc5c5
+に沿って対応しVisualStudioで.csxをひらけばOK
