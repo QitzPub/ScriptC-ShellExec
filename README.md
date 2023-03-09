@@ -22,11 +22,18 @@ dotnet tool install -g dotnet-script
 dotnet script
 ```
 
-試しに本スクリプト実行する
+mac版：試しに本スクリプト実行する
 
 ```
-dotnet script ./shell_exec.csx
+dotnet script ./mac_shell_exec.csx
 ```
+
+windows版：試しに本スクリプト実行する
+
+```
+dotnet script ./windows_shell_exec.csx
+```
+
 
 ↓
 
